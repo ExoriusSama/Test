@@ -2,4 +2,8 @@ hola mundo
 
 hgidhaopdjpoajdopad´padadadahd mondongo
 
+<<<<<<< HE
 sublime
+=======
+adnadnondopandawdaw+daadw
+>>>>>>> 50d311aa9c57424
